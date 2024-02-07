@@ -112,7 +112,7 @@ We use this information to provide features of Our Service, to improve and custo
 You can enable or disable access to this information at any time, through Your Device settings.
 
 
-
+The app will also store information about your tasks and aspects relating to your account in a secured database.
 
 
 ### Use of Your Personal Data
